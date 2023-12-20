@@ -1,0 +1,7 @@
+docnumABC123456
+contractXYZ987654321
+docnumDEF456789012
+invalidFormat1
+contractMNO345678901
+docnumPQR567890123
+invalidLength123
